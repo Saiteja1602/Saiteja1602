@@ -10,6 +10,6 @@ I'm a software engineer who loves to learn new technologies and create innovativ
 
 ## 🛠 Skills
 - HTML, CSS, JavaScript, Bootstrap
-- Java, JDBC, J2EE, Spring Boot
--  MySQL, Apache TomCat
+- Core Java, JDBC, J2EE, Spring Boot
+-  MySQL, Apache TomCat, WordPress
 - Git, GitHub
