@@ -1,6 +1,6 @@
 # Hi, I'm Saiteja 👋
 
-I'm a software engineer who loves to learn new technologies and create innovative solutions.
+I'm a web developer who loves to learn new technologies and create innovative solutions.
 
 ## 🚀 About Me
 - 👀 I’m interested in web development.
